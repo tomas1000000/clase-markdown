@@ -61,5 +61,16 @@ __Imput (entrada) -  Algoritmo - Salida (output)__
 Representacion grafia de los pasos de un proceso o de un algoritmo, se utiliza como una herramienta para visulaizar la logica de un programa antes de escribir una sola linea de codigo.
 Se utilizan componentes Estandar para qu cualquier programador pueda entenderlo.
 
+***CREATE CANVAS***
+Nos sirve para crear un lienzo y determinar su tamaño en pixeles, solo se pone una vez y dentro del setup.
+__render:__ Define el motor de renderizado
 
+***background***
+Nos sirve para definir el colord e nuestro lienzo, se piuede poner en el setup o en el draw, pero nhay diferentes resultados.
+
+### DIBUJAR en p5.js
+Para dibujar tenemos que entender que el canvas funciona como un sistema de coordenadas, como una plano cartesiano, pero el punto 0,0 no esta en el centro, sino en la esquina superior izquierda
+
+***COLOR DEL BORDE***
+stroke: establece el color que se utiliza para dibujar puntos, lieas y contornos de figuras o el ancho de linea o punto. Siempre se pone arriba de Stroke
 
