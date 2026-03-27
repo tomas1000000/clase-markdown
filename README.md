@@ -48,3 +48,18 @@ __TEXTO__
 [VIDEO DEL SIGLO](https://www.youtube.com/watch?v=vBynw9Isr28)
   [![GAGA](https://offloadmedia.feverup.com/secretmanchester.com/wp-content/uploads/2025/10/07132101/GettyImages-2213271076-1024x683.jpg)](https://www.ladygaga.com/us-en/)           
   [![ADDISON](https://idols2rivals.com/wp-content/uploads/2025/06/addissosonn.png)](https://www.youtube.com/watch?v=beNFK2cdnKU)
+
+
+
+# CLASE P5
+
+***Algoritmo:*** es una secuencia de instrucciones paso a paso, logicas, definidad, ordenadas y finitas que ejecutan una tarea especifica.
+#### Estructura
+__Imput (entrada) -  Algoritmo - Salida (output)__ 
+
+### DIAGRAMA DE FLUJO
+Representacion grafia de los pasos de un proceso o de un algoritmo, se utiliza como una herramienta para visulaizar la logica de un programa antes de escribir una sola linea de codigo.
+Se utilizan componentes Estandar para qu cualquier programador pueda entenderlo.
+
+
+
